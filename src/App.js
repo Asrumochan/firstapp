@@ -15,7 +15,7 @@ function App() {
             <li>  <Career/></li>
         </ul>
       </div>
-      <a href='#' className='log'><Login/></a>     
+      <a href='' className='log'>adsdsf</a>     
     </div>
   );
 }
