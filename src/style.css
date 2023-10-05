@@ -1,9 +1,7 @@
-.home{
-    color: blueviolet;
-}
 .list{
     display: flex;
     justify-content: space-around;
+    color: white;
 }
 .log{
     height: 30px;
@@ -13,17 +11,21 @@
 }
 Body {  
     font-family: Calibri, Helvetica, sans-serif;  
-    background-color: pink;  
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 37%, rgba(0,212,255,1) 100%);
   }  
   button {   
-         background-color: #4CAF50;   
+         background-color: white;   
          width: 100%;  
-          color: orange;   
+          color: blue;   
           padding: 15px;   
           margin: 10px 0px;   
           border: none;   
           cursor: pointer;   
            }   
+    button:hover {   
+        background-color: rgb(252, 251, 249); 
+        color:rgb(183, 175, 175);
+        }    
    form {   
           border: 3px solid #f1f1f1;   
       }   
@@ -34,18 +36,8 @@ Body {
           display: inline-block;   
           border: 2px solid green;   
           box-sizing: border-box;   
-      }  
-   button:hover {   
-          opacity: 0.7;   
-      }   
-    .cancelbtn {   
-          width: auto;   
-          padding: 10px 18px;  
-          margin: 10px 5px;  
-      }   
-          
-       
+      }       
    .container {   
           padding: 25px;   
-          background-color: lightblue;  
+          background: linear-gradient(90deg, rgba(0,212,255,1) 41%, rgba(15,1,177,1) 100%);
       }   

@@ -14,8 +14,10 @@ function App() {
             <li>  <About/></li>
             <li>  <Career/></li>
         </ul>
-      </div>
-      <a href='' className='log'>adsdsf</a>     
+        <div>
+          <Login/>
+        </div>
+      </div>   
     </div>
   );
 }
