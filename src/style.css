@@ -14,8 +14,7 @@ Body {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 37%, rgba(0,212,255,1) 100%);
   }  
   button {   
-         background-color: white;   
-         width: 100%;  
+         background-color: white;    
           color: blue;   
           padding: 15px;   
           margin: 10px 0px;   
